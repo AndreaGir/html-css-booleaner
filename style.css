@@ -1,6 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 .container{
     width: 100%;
 }
+
 
 .inizio{
     width: 100%;
@@ -9,7 +17,6 @@
     background-color: cornflowerblue;
     margin: auto;
 }
-
 #logo{
     background-image: url(img/logo.svg);
     width: 300px;
@@ -18,18 +25,25 @@
     background-position-y: 60px;
 }
 
-main{
-    text-align: center;
-    font-size: 27px;
-    text-align: justify;
-}
 
+
+.main{
+    font-size: 27px;
+    margin-top: 30px;  
+}
 .scritta{
     font-size: 20px;
-    padding-top: 0;
-    
+    margin-bottom: 20px;
+   
 }
-
 #blu{
     color: cornflowerblue;
 }
+#sotto{
+    font-size: 15px;
+}
+.scritta2{
+    font-size: 13px;
+    text-decoration: black;
+}
+
