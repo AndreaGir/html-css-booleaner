@@ -33,8 +33,7 @@
 }
 .scritta{
     font-size: 20px;
-    margin-bottom: 20px;
-   
+    margin-bottom: 20px;  
 }
 #blu{
     color: cornflowerblue;
@@ -47,3 +46,13 @@
     text-decoration: black;
 }
 
+.paragrafo{
+    margin-top: 30px;
+}
+#giallo{
+    background-color: yellow;
+}
+
+.lista{
+    
+}
