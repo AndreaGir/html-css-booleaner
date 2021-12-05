@@ -10,6 +10,7 @@
 }
 
 
+/* inizio page */
 .inizio{
     width: 100%;
     height: 150px;
@@ -24,35 +25,45 @@
     background-repeat: no-repeat;
     background-position-y: 60px;
 }
-
-
-
-.main{
-    font-size: 27px;
-    margin-top: 30px;  
-}
-.scritta{
-    font-size: 20px;
-    margin-bottom: 20px;  
+#sotto{
+    font-size: 16px;
 }
 #blu{
     color: cornflowerblue;
 }
-#sotto{
-    font-size: 15px;
+.scritta{
+    font-size: 25px;
+    margin-bottom: 35px;  
 }
+.main{
+    font-size: 27px;
+    margin-top: 30px;  
+}
+
+/* foto e scritte */
+.immagini{
+    width: 45%;
+    
+}
+.immagini2{
+    width: 38.5%;
+}
+
+/* scritta 2 */
 .scritta2{
     font-size: 13px;
     text-decoration: black;
 }
 
+/* paragrofo */
 .paragrafo{
     margin-top: 30px;
 }
 #giallo{
     background-color: yellow;
 }
-
 .lista{
-    
+    margin-top: 35px;
 }
+
+    
