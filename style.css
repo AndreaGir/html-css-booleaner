@@ -1,3 +1,6 @@
+.rosso{
+    background-color: red;
+}
 *{
     margin: 0;
     padding: 0;
@@ -46,7 +49,7 @@
     
 }
 .immagini2{
-    width: 38.5%;
+    width: 38.52%;
 }
 
 /* scritta 2 */
@@ -62,8 +65,21 @@
 #giallo{
     background-color: yellow;
 }
+
+
 .lista{
     margin-top: 35px;
 }
 
-    
+ /* footer */
+ #titolo{
+    color: rgb(12, 11, 11); 
+    margin-top: 35px;
+ }
+ .grand{
+     width: 23%;
+     display: inline-block;
+ }
+ .titolo{
+     display: inline-block;
+ }
