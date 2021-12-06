@@ -7,7 +7,7 @@
 
 
 .container{
-    width: 100%;
+    width: 30%;
 }
 
 
@@ -30,7 +30,7 @@
     font-size: 16px;
 }
 #blu{
-    color: cornflowerblue;
+    color: rgb(201, 113, 30);
 }
 .scritta{
     font-size: 25px;
@@ -78,7 +78,7 @@ table{
     background-color: lightblue;
 }
 .largo{
-    width: 900px; 
+    padding-right: 200px; 
     color: white;
     height: 10px;
 }
